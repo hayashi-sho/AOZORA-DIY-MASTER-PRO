@@ -1,0 +1,25 @@
+{
+  "name": "AOZORA. DIY MASTER PRO",
+  "short_name": "AOZORA DIY",
+  "description": "DIY初心者のための学習・図面・材料計算・施工支援",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#0e594c",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
